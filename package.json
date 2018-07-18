@@ -1,0 +1,17 @@
+{
+  "name": "egg-tablestore-orm",
+  "eggPlugin": {
+    "name": "tablestore-orm",
+    "dependencies": [],
+    "optionalDependencies": [],
+    "env": [
+      "local",
+      "test",
+      "unittest",
+      "prod"
+    ]
+  },
+  "dependencies": {
+    "tablestore": "^4.0.13"
+  }
+}
